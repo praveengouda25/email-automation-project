@@ -15,3 +15,9 @@ Python (Core programming language) <br>
 smtplib (For sending emails) <br>
 email & MIME (For formatting messages) <br>
 dotenv (For storing credentials securely) <br>
+
+📜 How It Works <br>
+1️⃣ The script reads recipient email addresses from a file or user input. <br>
+2️⃣ It connects to the SMTP server securely using authentication. <br>
+3️⃣ The email is formatted using MIME (text, HTML, or attachments). <br>
+4️⃣ The email is sent automatically to the recipients. <br>
